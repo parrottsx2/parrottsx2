@@ -1,4 +1,4 @@
-e<div align="center"> 24/7 in my head: If You Find Me Gone
+<div align="center"> 24/7 in my head: If You Find Me Gone
 <div align="center"> 1:29 ━━━━━━━━━━━━━━━━━ 5:36
   <p align="center">
   <img src="https://raw.githubusercontent.com/parrottsx2/parrottsx2/main/therealme.gif">

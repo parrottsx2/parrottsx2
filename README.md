@@ -8,3 +8,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CF3B&width=435&lines=day+1;my+mom+asked+me+if+I+was+okay.+;I+don't+feel+okay" alt="Typing SVG" /></a>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A5FCF&width=435&lines=day+2;i+finally+showered+today;i+really+want+to+improve+my+drawing+skills" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=day+3;today+was+okay%2C+i+think;i+got+to+eat+some+sprinkles" alt="Typing SVG" /></a>

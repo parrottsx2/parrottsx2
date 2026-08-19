@@ -1,16 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="80">
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="140" viewBox="0 0 1200 140" overflow="visible" preserveAspectRatio="xMinYMid meet">
+
   <defs>
     <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0" stop-color="#ff0000"/>
+      <stop offset="0"  stop-color="#ff0000"/>
       <stop offset="0.17" stop-color="#ff7f00"/>
       <stop offset="0.33" stop-color="#ffff00"/>
-      <stop offset="0.5" stop-color="#00ff00"/>
+      <stop offset="0.50" stop-color="#00ff00"/>
       <stop offset="0.67" stop-color="#0000ff"/>
       <stop offset="0.83" stop-color="#4b0082"/>
-      <stop offset="1" stop-color="#9400d3"/>
+      <stop offset="1"  stop-color="#9400d3"/>
     </linearGradient>
   </defs>
-  <text x="0" y="55" font-size="48" font-family="Segoe UI, Arial, sans-serif" fill="url(#g)">
-suspecting system
+
+  <text x="20" y="95"
+        font-size="80"
+        font-family="Segoe UI, Arial, sans-serif"
+        fill="url(#g)">
+    Hello Rainbow! this is a longer example that won't get clipped
   </text>
 </svg>
